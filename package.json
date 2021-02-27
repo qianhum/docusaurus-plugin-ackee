@@ -1,0 +1,35 @@
+{
+  "name": "docusaurus-plugin-ackee",
+  "version": "0.0.0",
+  "description": "Ackee analytics plugin for Docusaurus",
+  "license": "MIT",
+  "keywords": [
+    "ackee",
+    "analytics",
+    "docusaurus",
+    "docusaurus-plugin",
+    "statistics"
+  ],
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/qianhum/docusaurus-plugin-ackee",
+  "author": {
+    "name": "Qian Hum",
+    "url": "https://github.com/qianhum"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qianhum/docusaurus-plugin-ackee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qianhum/docusaurus-plugin-ackee/issues"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-import-resolver-node": "^0.3.4",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
